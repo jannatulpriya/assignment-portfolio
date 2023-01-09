@@ -23,10 +23,9 @@
     line-height: 76px;
     text-align: right;
     padding-top: 220px;
-    padding-left: 600px;
-    padding-right: 100px;
     color: #FFFFFF;
     margin-bottom: 24px;
+    margin-left: 50px;
 
 }
 
@@ -38,7 +37,7 @@
     color: #FFFFFF;
     margin-bottom: 32px;
 }
-.banner-btn-main{
+.btn-main{
     color: #005FAC;
     font-weight: 600;
     font-size: 20px;
@@ -46,5 +45,14 @@
     border-radius: 5px;
     height: 64px;
     border: 0px;
-    text-align: right;
+    margin-left: 1075px;
+}
+
+/* My Plan */
+.my-plans{
+    margin-top: 130px;
+}
+.skills-container{
+    display: flex;
+    margin: center;
 }
